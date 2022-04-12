@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/marcoantoniosz.github.io/itony/static/css/main.58af580d.css",
-    "main.js": "/marcoantoniosz.github.io/itony/static/js/main.8635a402.js",
-    "index.html": "/marcoantoniosz.github.io/itony/index.html",
-    "main.58af580d.css.map": "/marcoantoniosz.github.io/itony/static/css/main.58af580d.css.map",
-    "main.8635a402.js.map": "/marcoantoniosz.github.io/itony/static/js/main.8635a402.js.map"
+    "main.css": "/itony/static/css/main.58af580d.css",
+    "main.js": "/itony/static/js/main.16d37feb.js",
+    "index.html": "/itony/index.html",
+    "main.58af580d.css.map": "/itony/static/css/main.58af580d.css.map",
+    "main.16d37feb.js.map": "/itony/static/js/main.16d37feb.js.map"
   },
   "entrypoints": [
     "static/css/main.58af580d.css",
-    "static/js/main.8635a402.js"
+    "static/js/main.16d37feb.js"
   ]
 }
