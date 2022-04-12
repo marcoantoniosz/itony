@@ -1,0 +1,69 @@
+@media screen and (max-width: 768px) {
+  .user-data {
+    width: 300px !important;
+  }
+  .profile-texts {
+    width: 250px !important;
+    font-size: 17px !important;
+    text-align: center;
+  }
+  .mbl {
+    width: 130px !important;
+  }
+  .p-icon {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+  }
+}
+
+.profile-main {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.user-data {
+  border: 1px solid black;
+  width: 600px;
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.profile-texts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 30px;
+  box-shadow: lightgray 5px 5px 5px 5px;
+  width: 570px;
+  height: 50px;
+}
+
+.btn-m {
+  margin-bottom: 10px;
+}
+
+.resiz {
+  width: 200px;
+  margin-left: 10px;
+}
+
+.resiz2 {
+  width: 155px;
+}
+
+.inputs-edit {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,18 @@
+.album-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  border: 1px solid #5353EE;
+  background-color:  #FAF05A;
+  box-shadow: 3px 3px 3px 3px #5353EE;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.album-image:hover {
+  box-shadow: 5px 5px 5px 5px #DCA722;
+}

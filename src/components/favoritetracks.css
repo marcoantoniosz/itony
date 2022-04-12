@@ -1,0 +1,12 @@
+.fave-tracks-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  width: 310px;
+  height: 310px;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 5px;
+}

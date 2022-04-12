@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+@media screen and (max-width: 768px) {
+  
+.login-content {
+  width: 300px !important;
+}
+
+.text-inputs {
+  width: 200px !important;
+}
+
+.form-button {
+  width: 200px !important;
+}
+
+.error-input {
+  text-align: center;
+}
+
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #AFEFFC;
+  font-family: 'Josefin Sans', cursive;
+}
+
+.login-father {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-content {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 350px;
+  width: 600px;
+  margin-top: 40px;
+  justify-content: space-evenly;
+  background-color: #fffffc;
+  box-shadow: 7px 7px 7px 7px lightgrey; 
+}
+
+.logo-img {
+  height: 150px;
+  width: 150px;
+  margin-top: 50px;
+}
+
+.text-inputs {
+  width: 400px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 7px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.form-button {
+  width: 400px;
+  height: 30px;
+  border-radius: 7px;
+  background-color: #5353EE;
+  color: white;
+  font-family: 'Josefin Sans', cursive;
+}
+
+.error-input {
+  color: red;
+  align-self: center;
+}
+

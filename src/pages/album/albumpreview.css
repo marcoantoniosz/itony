@@ -1,0 +1,17 @@
+@media screen and (max-width: 768px) {
+  .album-preview-cont {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+}
+
+.album-preview-cont {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.tracks-cont {
+  display: flex;
+  flex-direction: column;
+  margin-top: 23px;
+}
